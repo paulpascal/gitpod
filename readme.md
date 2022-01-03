@@ -33,7 +33,7 @@ gitpod is a personal tools meant for developer, it not a production ready tool a
 
 ```javascript
     npm install
-    nom link
+    npm link
 ```
 
 ### Step 4
