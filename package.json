@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^18.12.0",
+    "@octokit/rest": "^20.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.1",
     "chalk": "^5.0.0",
